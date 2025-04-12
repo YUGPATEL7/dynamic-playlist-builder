@@ -75,6 +75,7 @@ button:hover {
 }
 
 .details-container {
+    margin-bottom: 52px;
     display: flex;
     flex-direction: column;
     justify-content: center;
